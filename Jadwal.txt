@@ -1,0 +1,307 @@
+JADWAL KULIAH INFORMATIKA 2023 SEMESTER 1
+Algoritma dan Pemrograman I - 08.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Matematika Diskrit - 10.00 - Senin - P204 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Pengantar Teknologi Informasi - 13.00 - Selasa - L206 - 2 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pendidikan Agama - 15.00 - Selasa - P204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+Bahasa Indonesia - 08.00 - Rabu - L10 - 2 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Logika Informatika - 10.00 - Kamis - L301 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Dasar Sistem Komputer - 13.00 - Kamis - L204 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Pancasila - 09.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2023 SEMESTER 2
+Algoritma dan Pemrograman II - 08.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Struktur Data - 10.00 - Senin - L204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Sistem Operasi - 13.00 - Selasa - P203 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Basis Data I - 15.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pemrograman Berorientasi Objek - 08.00 - Rabu - P204 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Statistika - 10.00 - Kamis - L10 - 2 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Bahasa Inggris Informatika - 13.00 - Kamis - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Kewarganegaraan - 09.00 - Jumat - L204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2023 SEMESTER 3
+Basis Data II - 08.00 - Senin - L206 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pemrograman Web - 10.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Jaringan Komputer - 13.00 - Selasa - L301 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Rekayasa Perangkat Lunak - 15.00 - Selasa - P204 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Interaksi Manusia dan Komputer - 08.00 - Rabu - L10 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Analisis dan Desain Sistem - 10.00 - Kamis - P204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Sistem Digital - 13.00 - Kamis - L204 - 2 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Etika Profesi - 09.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2023 SEMESTER 4
+Pemrograman Mobile - 08.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Kecerdasan Buatan - 10.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Sistem Informasi - 13.00 - Selasa - P204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Keamanan Sistem Informasi - 15.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Pemrograman Lanjut - 08.00 - Rabu - P203 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Manajemen Proyek TI - 10.00 - Kamis - L10 - 2 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Statistika Informatika - 13.00 - Kamis - L204 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Kewirausahaan - 09.00 - Jumat - P204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2023 SEMESTER 5
+Machine Learning - 08.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Pemrograman Berbasis Framework - 10.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Cloud Computing - 13.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Data Mining - 15.00 - Selasa - P204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pengembangan Aplikasi Web - 08.00 - Rabu - L204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+UI/UX Design - 10.00 - Kamis - P203 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Metodologi Penelitian - 13.00 - Kamis - L10 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Technopreneurship - 09.00 - Jumat - P204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2023 SEMESTER 6
+Deep Learning - 08.00 - Senin - L206 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Pengolahan Citra Digital - 10.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Internet of Things - 13.00 - Selasa - P203 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Forensik Digital - 15.00 - Selasa - L204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+DevOps - 08.00 - Rabu - P204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Manajemen Basis Data - 10.00 - Kamis - L10 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Sistem Terdistribusi - 13.00 - Kamis - L301 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Seminar Informatika - 09.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2023 SEMESTER 7
+Praktik Kerja Lapangan - 08.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Manajemen Proyek Perangkat Lunak - 10.00 - Senin - P204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Analitik Data - 13.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Pengembangan Game - 15.00 - Selasa - L301 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Keamanan Jaringan - 08.00 - Rabu - L204 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Sistem Pendukung Keputusan - 10.00 - Kamis - P203 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Teknologi Multimedia - 13.00 - Kamis - P204 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Seminar Proposal - 09.00 - Jumat - L10 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2023 SEMESTER 8
+Skripsi - 08.00 - Senin - P203 - 6 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Publikasi Ilmiah - 10.00 - Selasa - P204 - 2 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Seminar Hasil - 13.00 - Rabu - L206 - 2 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Ujian Komprehensif - 15.00 - Kamis - L301 - 2 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Etika dan Profesionalisme TI - 08.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2024 SEMESTER 1
+Algoritma dan Pemrograman I - 08.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Matematika Diskrit - 10.00 - Senin - P204 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Pengantar Teknologi Informasi - 13.00 - Selasa - L206 - 2 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pendidikan Agama - 15.00 - Selasa - P204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+Bahasa Indonesia - 08.00 - Rabu - L10 - 2 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Logika Informatika - 10.00 - Kamis - L301 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Dasar Sistem Komputer - 13.00 - Kamis - L204 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Pancasila - 09.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2024 SEMESTER 2
+Algoritma dan Pemrograman II - 08.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Struktur Data - 10.00 - Senin - L204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Sistem Operasi - 13.00 - Selasa - P203 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Basis Data I - 15.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pemrograman Berorientasi Objek - 08.00 - Rabu - P204 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Statistika - 10.00 - Kamis - L10 - 2 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Bahasa Inggris Informatika - 13.00 - Kamis - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Kewarganegaraan - 09.00 - Jumat - L204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2024 SEMESTER 3
+Basis Data II - 08.00 - Senin - L206 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pemrograman Web - 10.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Jaringan Komputer - 13.00 - Selasa - L301 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Rekayasa Perangkat Lunak - 15.00 - Selasa - P204 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Interaksi Manusia dan Komputer - 08.00 - Rabu - L10 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Analisis dan Desain Sistem - 10.00 - Kamis - P204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Sistem Digital - 13.00 - Kamis - L204 - 2 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Etika Profesi - 09.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2024 SEMESTER 4
+Pemrograman Mobile - 08.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Kecerdasan Buatan - 10.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Sistem Informasi - 13.00 - Selasa - P204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Keamanan Sistem Informasi - 15.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Pemrograman Lanjut - 08.00 - Rabu - P203 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Manajemen Proyek TI - 10.00 - Kamis - L10 - 2 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Statistika Informatika - 13.00 - Kamis - L204 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Kewirausahaan - 09.00 - Jumat - P204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2024 SEMESTER 5
+Machine Learning - 08.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Pemrograman Berbasis Framework - 10.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Cloud Computing - 13.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Data Mining - 15.00 - Selasa - P204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pengembangan Aplikasi Web - 08.00 - Rabu - L204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+UI/UX Design - 10.00 - Kamis - P203 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Metodologi Penelitian - 13.00 - Kamis - L10 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Technopreneurship - 09.00 - Jumat - P204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2024 SEMESTER 6
+Deep Learning - 08.00 - Senin - L206 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Pengolahan Citra Digital - 10.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Internet of Things - 13.00 - Selasa - P203 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Forensik Digital - 15.00 - Selasa - L204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+DevOps - 08.00 - Rabu - P204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Manajemen Basis Data - 10.00 - Kamis - L10 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Sistem Terdistribusi - 13.00 - Kamis - L301 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Seminar Informatika - 09.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2024 SEMESTER 7
+Praktik Kerja Lapangan - 08.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Manajemen Proyek Perangkat Lunak - 10.00 - Senin - P204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Analitik Data - 13.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Pengembangan Game - 15.00 - Selasa - L301 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Keamanan Jaringan - 08.00 - Rabu - L204 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Sistem Pendukung Keputusan - 10.00 - Kamis - P203 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Teknologi Multimedia - 13.00 - Kamis - P204 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Seminar Proposal - 09.00 - Jumat - L10 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2024 SEMESTER 8
+Skripsi - 08.00 - Senin - P203 - 6 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Publikasi Ilmiah - 10.00 - Selasa - P204 - 2 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Seminar Hasil - 13.00 - Rabu - L206 - 2 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Ujian Komprehensif - 15.00 - Kamis - L301 - 2 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Etika dan Profesionalisme TI - 08.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2025 SEMESTER 1
+Algoritma dan Pemrograman I - 08.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Matematika Diskrit - 10.00 - Senin - P204 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Pengantar Teknologi Informasi - 13.00 - Selasa - L206 - 2 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pendidikan Agama - 15.00 - Selasa - P204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+Bahasa Indonesia - 08.00 - Rabu - L10 - 2 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Logika Informatika - 10.00 - Kamis - L301 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Dasar Sistem Komputer - 13.00 - Kamis - L204 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Pancasila - 09.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2025 SEMESTER 2
+Algoritma dan Pemrograman II - 08.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Struktur Data - 10.00 - Senin - L204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Sistem Operasi - 13.00 - Selasa - P203 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Basis Data I - 15.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pemrograman Berorientasi Objek - 08.00 - Rabu - P204 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Statistika - 10.00 - Kamis - L10 - 2 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Bahasa Inggris Informatika - 13.00 - Kamis - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Kewarganegaraan - 09.00 - Jumat - L204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2025 SEMESTER 3
+Basis Data II - 08.00 - Senin - L206 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pemrograman Web - 10.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Jaringan Komputer - 13.00 - Selasa - L301 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Rekayasa Perangkat Lunak - 15.00 - Selasa - P204 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Interaksi Manusia dan Komputer - 08.00 - Rabu - L10 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Analisis dan Desain Sistem - 10.00 - Kamis - P204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Sistem Digital - 13.00 - Kamis - L204 - 2 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Etika Profesi - 09.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2025 SEMESTER 4
+Pemrograman Mobile - 08.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Kecerdasan Buatan - 10.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Sistem Informasi - 13.00 - Selasa - P204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Keamanan Sistem Informasi - 15.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Pemrograman Lanjut - 08.00 - Rabu - P203 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Manajemen Proyek TI - 10.00 - Kamis - L10 - 2 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Statistika Informatika - 13.00 - Kamis - L204 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Kewirausahaan - 09.00 - Jumat - P204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2025 SEMESTER 5
+Machine Learning - 08.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Pemrograman Berbasis Framework - 10.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Cloud Computing - 13.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Data Mining - 15.00 - Selasa - P204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pengembangan Aplikasi Web - 08.00 - Rabu - L204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+UI/UX Design - 10.00 - Kamis - P203 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Metodologi Penelitian - 13.00 - Kamis - L10 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Technopreneurship - 09.00 - Jumat - P204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2025 SEMESTER 6
+Deep Learning - 08.00 - Senin - L206 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Pengolahan Citra Digital - 10.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Internet of Things - 13.00 - Selasa - P203 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Forensik Digital - 15.00 - Selasa - L204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+DevOps - 08.00 - Rabu - P204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Manajemen Basis Data - 10.00 - Kamis - L10 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Sistem Terdistribusi - 13.00 - Kamis - L301 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Seminar Informatika - 09.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2025 SEMESTER 7
+Praktik Kerja Lapangan - 08.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Manajemen Proyek Perangkat Lunak - 10.00 - Senin - P204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Analitik Data - 13.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Pengembangan Game - 15.00 - Selasa - L301 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Keamanan Jaringan - 08.00 - Rabu - L204 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Sistem Pendukung Keputusan - 10.00 - Kamis - P203 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Teknologi Multimedia - 13.00 - Kamis - P204 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Seminar Proposal - 09.00 - Jumat - L10 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2025 SEMESTER 8
+Skripsi - 08.00 - Senin - P203 - 6 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Publikasi Ilmiah - 10.00 - Selasa - P204 - 2 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Seminar Hasil - 13.00 - Rabu - L206 - 2 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Ujian Komprehensif - 15.00 - Kamis - L301 - 2 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Etika dan Profesionalisme TI - 08.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2026 SEMESTER 1
+Algoritma dan Pemrograman I - 08.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Matematika Diskrit - 10.00 - Senin - P204 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Pengantar Teknologi Informasi - 13.00 - Selasa - L206 - 2 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pendidikan Agama - 15.00 - Selasa - P204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+Bahasa Indonesia - 08.00 - Rabu - L10 - 2 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Logika Informatika - 10.00 - Kamis - L301 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Dasar Sistem Komputer - 13.00 - Kamis - L204 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Pancasila - 09.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2026 SEMESTER 2
+Algoritma dan Pemrograman II - 08.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Struktur Data - 10.00 - Senin - L204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Sistem Operasi - 13.00 - Selasa - P203 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Basis Data I - 15.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pemrograman Berorientasi Objek - 08.00 - Rabu - P204 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Statistika - 10.00 - Kamis - L10 - 2 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Bahasa Inggris Informatika - 13.00 - Kamis - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Kewarganegaraan - 09.00 - Jumat - L204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2026 SEMESTER 3
+Basis Data II - 08.00 - Senin - L206 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pemrograman Web - 10.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Jaringan Komputer - 13.00 - Selasa - L301 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Rekayasa Perangkat Lunak - 15.00 - Selasa - P204 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Interaksi Manusia dan Komputer - 08.00 - Rabu - L10 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Analisis dan Desain Sistem - 10.00 - Kamis - P204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Sistem Digital - 13.00 - Kamis - L204 - 2 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Etika Profesi - 09.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2026 SEMESTER 4
+Pemrograman Mobile - 08.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Kecerdasan Buatan - 10.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Sistem Informasi - 13.00 - Selasa - P204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Keamanan Sistem Informasi - 15.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Pemrograman Lanjut - 08.00 - Rabu - P203 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Manajemen Proyek TI - 10.00 - Kamis - L10 - 2 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Statistika Informatika - 13.00 - Kamis - L204 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Kewirausahaan - 09.00 - Jumat - P204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2026 SEMESTER 5
+Machine Learning - 08.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Pemrograman Berbasis Framework - 10.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Cloud Computing - 13.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Data Mining - 15.00 - Selasa - P204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Pengembangan Aplikasi Web - 08.00 - Rabu - L204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+UI/UX Design - 10.00 - Kamis - P203 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Metodologi Penelitian - 13.00 - Kamis - L10 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Technopreneurship - 09.00 - Jumat - P204 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2026 SEMESTER 6
+Deep Learning - 08.00 - Senin - L206 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Pengolahan Citra Digital - 10.00 - Senin - L301 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Internet of Things - 13.00 - Selasa - P203 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Forensik Digital - 15.00 - Selasa - L204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+DevOps - 08.00 - Rabu - P204 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Manajemen Basis Data - 10.00 - Kamis - L10 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Sistem Terdistribusi - 13.00 - Kamis - L301 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Seminar Informatika - 09.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2026 SEMESTER 7
+Praktik Kerja Lapangan - 08.00 - Senin - P203 - 3 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Manajemen Proyek Perangkat Lunak - 10.00 - Senin - P204 - 3 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Analitik Data - 13.00 - Selasa - L206 - 3 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Pengembangan Game - 15.00 - Selasa - L301 - 3 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Keamanan Jaringan - 08.00 - Rabu - L204 - 3 SKS - 16 Pertemuan - Agus Pratama, M.Kom.
+Sistem Pendukung Keputusan - 10.00 - Kamis - P203 - 3 SKS - 16 Pertemuan - Siti Rahma, M.Hum.
+Teknologi Multimedia - 13.00 - Kamis - P204 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
+Seminar Proposal - 09.00 - Jumat - L10 - 2 SKS - 16 Pertemuan - Yohanes Setiawan, M.Pd.
+
+JADWAL KULIAH INFORMATIKA 2026 SEMESTER 8
+Skripsi - 08.00 - Senin - P203 - 6 SKS - 16 Pertemuan - Budi Santoso, S.Kom.
+Publikasi Ilmiah - 10.00 - Selasa - P204 - 2 SKS - 16 Pertemuan - Rina Permata, M.Kom.
+Seminar Hasil - 13.00 - Rabu - L206 - 2 SKS - 16 Pertemuan - Dedi Kurniawan, M.Kom.
+Ujian Komprehensif - 15.00 - Kamis - L301 - 2 SKS - 16 Pertemuan - Andi Wijaya, M.Kom.
+Etika dan Profesionalisme TI - 08.00 - Jumat - P203 - 2 SKS - 16 Pertemuan - Maria Lestari, M.Pd.
